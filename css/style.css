@@ -1,0 +1,39 @@
+
+#o{
+	color: brown;
+	background-image: url(../img/4.png);
+}
+h1{
+	background-color: blue;
+}
+ol li{
+	background-image: url(../img/5.png);
+	width: 500px;
+	height: 20px;
+}
+#j ,#k ,#l {
+	color: red;
+}
+ul li a{
+	color: red;
+	text-decoration: none;
+}
+.p{
+	display: inline-block;
+	text-align: center;
+}
+a:link{
+	color: aqua;
+}
+a:visited{
+	color: #0000FF;
+}
+a:hover{
+	color: red;
+}
+a:active{
+	color: burlywood;
+}
+#w{
+	font-size: 20px;
+}
