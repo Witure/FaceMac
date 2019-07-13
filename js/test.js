@@ -6,3 +6,5 @@ for (var s = 1; s < 5; s++) {
 	console.log(s)
 	
 }
+var l = new Date(2018,5,5,1,44,23)
+console.log(l)
